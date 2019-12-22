@@ -4,9 +4,9 @@
 
 # Site
 title: 赵灿祥的博客
-subtitle: ''
-description: ''
-keywords:
+subtitle: '赵灿祥的博客'
+description: '赵灿祥的博客'
+keywords: Vue hexo 前端开发 博客模板 博客系统 
 author: 赵灿祥
 language: zh
 timezone: ''
@@ -96,6 +96,12 @@ sidebar-avatar: img/avatar.jpg
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: aircloud
+
+# Site settings
+# 网站综合内容设置：
+SEOTitle: 赵灿祥的博客 | canxiangzhao's Blog
+email: canxiangzhao@163.com
+keyword: "web开发 Vue hexo 前端开发 博客模板 博客系统 "
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
